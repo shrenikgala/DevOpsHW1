@@ -1,0 +1,19 @@
+{
+  "name": "provisioningservers",
+  "version": "0.0.0",
+  "description": "\"Workshop Demo\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "needle": "^0.7.10"
+  },
+  "dependencies": {
+    "express": "*",
+    "aws-sdk": "*"
+   },
+  "engine": "node >=0.6.x"
+}
+
